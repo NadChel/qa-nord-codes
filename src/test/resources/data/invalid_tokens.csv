@@ -1,0 +1,6 @@
+, null
+"", empty
+A, too short
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA, too long
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa, lowercase present
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA_, special character present
